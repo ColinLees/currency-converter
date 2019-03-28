@@ -27,4 +27,8 @@ In order to know how much money I will have whilst on my holiday, I need you to 
 ## Initilaization
 I have provided a small node.js application as a starting platform for the challange, however, if you want to use a different language please feel free.
 
+In order to make calls to these APIs I have install the npm package `axios`.
+
 Remember to run `$ npm install` before trying to run the program.
+
+To run the program: `$ node currency-converter.js`.
